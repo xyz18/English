@@ -1,0 +1,12 @@
+*.~
+*.tmp
+_book/
+*.swp
+*.edx
+.DS_Store
+node_modules/
+.ash_history
+.gitbook/
+.node_repl_history
+.npm/
+nohup.out
