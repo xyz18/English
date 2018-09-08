@@ -6,6 +6,7 @@
         * [1-10](elementary/deee/one.md)
         * [11-20](elementary/deee/ten.md)
         * [21-30](elementary/deee/twenty.md)
+        * [31-40](elementary/deee/thirty.md)
 * [初中级](pre-intermediate/README.md)
 * [中级](intermediate/README.md)
 * [中高级](upper-intermediate/README.md)
